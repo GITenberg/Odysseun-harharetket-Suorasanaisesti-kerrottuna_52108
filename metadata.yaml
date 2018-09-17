@@ -1,0 +1,34 @@
+_repo: Odysseun-harharetket-Suorasanaisesti-kerrottuna_52108
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sirkka, Impi
+    birthdate: 1884
+    deathdate: 1973
+    gutenberg_agent_id: '46681'
+    url: http://www.gutenberg.org/2009/agents/46681
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2016-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52108'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Fiction'
+- !lcc 'PH'
+- !lcsh 'Epic poetry, Greek -- Adaptations'
+- GITenberg
+title: 'Odysseun harharetket: Suorasanaisesti kerrottuna'
+url: http://www.gutenberg.org/ebooks/52108
